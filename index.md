@@ -15,7 +15,6 @@ layout: default
 | teambellagio@performworkshop.com  |
 | teammgm@performworkshop.com       |
 
-Password: Dyn@trace2025
 
 # Ace Box Dashboard
 [Link to Ace Box Dashboard](http://dashboard.9067def5-98ab-4f95-b88f-80c8bbe52634.dynatrace.training).
