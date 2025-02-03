@@ -9,7 +9,7 @@ layout: default
 |     User Name for Dynatrace           |      Team Number         |
 |: -------------------------------------|: ------------------------|
 | teamaria@performworkshop.com          |       team01             |             
-| teamceasers@performworkshop.com       |       team02             |
+| teamcaesers@performworkshop.com       |       team02             |
 | teamvenetian@performworkshop.com      |       team03             |
 | teamcosmo@performworkshop.com         |       team04             |
 | teambellagio@performworkshop.com      |       team05             |
