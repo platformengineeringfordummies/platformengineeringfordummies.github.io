@@ -4,7 +4,7 @@ layout: default
 
 
 # Dynatrace Environment for this session
-[Link to Dynatrace Environment](https://xfn56115.apps.dynatrace.com/ui/apps/dynatrace.launcher/launchpad/f1aff4b0-2050-4844-91dd-9e093d305728).
+[Link to Dynatrace Environment](https://hzs59179.apps.dynatrace.com/ui/apps/dynatrace.launcher/launchpad/931da7ee-38d6-494c-a163-40aee5862c5b).
 
 |     User Name for Dynatrace           |      Team Number         |
 |: -------------------------------------|: ------------------------|
@@ -17,6 +17,6 @@ layout: default
 
 
 # Ace Box Dashboard
-[Link to Ace Box Dashboard](https://dashboard.b88aac32-d57b-4224-b073-b0f7e0a20625.dynatrace.training/links).
+[Link to Ace Box Dashboard](https://dashboard.1df4b090-97cc-4a4c-9844-c14efdf48996.dynatrace.training/links).
 
 
